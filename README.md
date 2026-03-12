@@ -28,3 +28,5 @@ Production-ready SQL pipeline containing only transformation commands.
 ## Tools
 
 - MySQL
+
+![Dataset Preview](images/clean_dataset_preview.png)

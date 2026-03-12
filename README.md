@@ -2,7 +2,7 @@
 
 This project demonstrates a complete data cleaning workflow using SQL.
 
-The dataset contains information about company layoffs around the world starting on 11 March 2020 up to 21 Apr 2025.
+The dataset contains information about company layoffs around the world starting on 11 March 2020 up to 21 Apr 2025
 The dataset is extracted from kaggle.com
 Link to the dataset: https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
